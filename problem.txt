@@ -1,0 +1,48 @@
+User Details
+
+Full Name
+Email Address
+Address
+Country
+State
+City
+pin code
+
+
+Product Details
+    Product Name
+    SKU
+    Price
+    Qty
+   
+
+ 
+
+Order Details
+    ordrer_id
+    product_id
+    user_id
+    order_date
+    payment_status
+
+
+
+
+
+
+
+
+Display - Order details
+    Order no: xxxxxxxxxx
+    Order Date: xx/xx/xxxx
+    Product Name: xxxxxxxxxx
+    User Full Name: xxxxxxxxxx
+    User Email : xxxxxxx
+    User Address: addtes, city, state, country and pincode (ex: 221, Phase IV, Udyog Vihar, Sector 18, Gurugram, Haryana 122016)
+
+
+
+
+
+Key_ID:  rzp_test_HMIc8t4WQZN4rW
+Secret Key: Qxk0gpODX5BudmkYOp4krpLE
